@@ -30,4 +30,4 @@ npm i
 
 ## Deployment 📦
 
-_View the documentation in Now or other _
+_View the documentation in Now or other_
