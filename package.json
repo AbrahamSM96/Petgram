@@ -1,7 +1,7 @@
 {
-    "name": "curso-platzi-react-avanzado",
+    "name": "petgram",
     "version": "1.0.0",
-    "description": "Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)",
+    "description": "pwa with ReactJs",
     "main": "index.js",
     "scripts": {
         "lint": "standard",
